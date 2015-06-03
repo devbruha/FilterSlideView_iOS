@@ -1,0 +1,13 @@
+PODS:
+  - SwiftForms (1.0)
+  - XLForm (2.1.0)
+
+DEPENDENCIES:
+  - SwiftForms
+  - XLForm (~> 2.1.0)
+
+SPEC CHECKSUMS:
+  SwiftForms: b16bf2978e6eb6617bc9f438322a1daa6c3d2dbd
+  XLForm: ba9e657a360a810ab1f64cc2cd6307fd99a86866
+
+COCOAPODS: 0.37.2
